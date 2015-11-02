@@ -1,2 +1,2 @@
-# bootstrap
-Bootstrap lesson
+# boxmodel
+Boxmodel lesson
