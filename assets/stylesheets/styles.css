@@ -1,8 +1,27 @@
 #content {
 	width: 600px;
 	background: #fff;
+	border: 2px solid fuchsia;
+	padding: 20px; /* Adds 20px of space to all sides */
+	margin: 20px auto; /* Adds 20px to the top & bottom & centers left/right */
 }
 
 .crazy-color {
 	color: fuchsia;
+}
+
+img {
+	width: 200px;
+	float: left;
+	margin-right: 10px;
+}
+
+footer {
+	height:20px;
+	width: 100%;
+	border: 10px solid yellow;
+	background: #336699;
+	color: white;
+	font-size: 12px;
+	padding: 20px;
 }
