@@ -9,3 +9,19 @@
 .crazy-color {
 	color: fuchsia;
 }
+
+img {
+	width: 200px;
+	float: left;
+	margin-right: 10px;
+}
+
+footer {
+	height:20px;
+	width: 100%;
+	border: 10px solid yellow;
+	background: #336699;
+	color: white;
+	font-size: 12px;
+	padding: 20px;
+}
